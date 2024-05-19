@@ -8,5 +8,5 @@ A passionate frontend developer from Taiwan
 
 ### Currently Learning:
 
-- Unit Test
+- Unit testing
 - TypeScript
