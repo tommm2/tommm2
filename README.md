@@ -12,5 +12,5 @@ A passionate frontend developer from Taiwan
 - Read the Webpack documentation in detail
 - CI/CD
 - Design Pattern
-- Clean Architecture
+- Read Clean Architecture
 - Three.js
