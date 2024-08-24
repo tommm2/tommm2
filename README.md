@@ -1,3 +1,5 @@
+![Tom Jin](https://github.com/user-attachments/assets/48238eb0-6e93-43d7-82c0-0f0f85880f07)
+
 <h1>Hi 👋, I'm Tom Jin</h1>
 A passionate frontend developer from Taiwan
 
