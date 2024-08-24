@@ -8,9 +8,9 @@ A passionate frontend developer from Taiwan
 
 ### Learning list:
 
-- [] Webpack
-- [] Jest、Crypess
-- [] Github Action
-- [] Design Pattern
-- [] Read Clean Architecture
-- [] Three.js
+- [ ] Webpack
+- [ ] Jest、Crypess
+- [ ] Github Action
+- [ ] Design Pattern
+- [ ] Read Clean Architecture
+- [ ] Three.js
